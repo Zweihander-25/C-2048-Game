@@ -89,7 +89,7 @@ All `.c` files have corresponding `.h` headers located in `include/`, documentin
 Open a terminal or command prompt in the project root and run: **make**. If using Windows and make doesn't work, try: **mingw32-make**
 
 ## Authors
-- Akniou Moahamed Achraf [GitHub](https://github.com/Zweihander-25) / [Discord](discordapp.com/users/839512139881513030)
+- Akniou Moahamed Achraf [GitHub](https://github.com/Zweihander-25) / [Discord](https://discordapp.com/users/839512139881513030)
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
