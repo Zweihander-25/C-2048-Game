@@ -43,16 +43,27 @@ The game also allows loading a saved game (matrix, score, player name, and time 
 
 ## Folder Structure
 project-root/
+
 │
+
 ├── # SDL DLLs (SDL2, SDL_ttf, SDL_image, SDL_mixer)
+
 ├── assets/ # Images, fonts, sounds 
+
 ├── src/
+
 │ ├── include/ # Header files
+
 │ │ └── SDL2/ # SDL2 headers
+
 │ ├── lib/ # Source files (main.c, logic.c, draw.c, etc.)
+
 │ ├── cmake/ # CMake config
+
 │ └── pkgconfig/ # Package config files
+
 ├── Makefile # Makefile for build commands
+
 └── README.md # Project documentation
 
 ## Files Description
